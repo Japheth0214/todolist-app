@@ -50,7 +50,7 @@ function displayTasks() {
         deleteButton.addEventListener("click", () => deleteTask(task.id)); // Call deleteTask function
 
         // Add margin to the label
-        label.style.marginRight = "30px";
+        label.style.marginRight = "50px";
 
         li.appendChild(checkbox);
         li.appendChild(label);

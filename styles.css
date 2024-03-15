@@ -31,4 +31,5 @@ li {
     height: auto;
     display: inline-block;
     vertical-align: middle;
+    margin-bottom: 3px;
 }
