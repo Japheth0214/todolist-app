@@ -1,0 +1,34 @@
+body {
+    font-family: Arial, sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+}
+
+#container {
+    text-align: center;
+}
+
+ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+li {
+    margin-bottom: 5px;
+}
+
+.completed {
+    text-decoration: line-through;
+}
+
+.delete-button {
+    font-size: 12px;
+    padding: inherit;
+    width: auto;
+    height: auto;
+    display: inline-block;
+    vertical-align: middle;
+}
